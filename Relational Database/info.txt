@@ -1,0 +1,5 @@
+All files related to the database are stored in this folder.
+
+1. ER diagramms
+2. Relations diagramm
+3. SQL scripts (schema and dummy data)
