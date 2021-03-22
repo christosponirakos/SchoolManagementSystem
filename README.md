@@ -1,5 +1,4 @@
 # SchoolManagementSystem
-An individual project developed during a full stack web development coding bootcamp (www.afdemp.org).
 
 The web app can store courses, students, trainers, assignments and all possible relations. CRUD capabilities are in place, using Hibernate ORM.
 
